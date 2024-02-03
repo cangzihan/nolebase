@@ -212,7 +212,7 @@ Transformer 通过使用自注意力（self-attention）机制和位置编码（
 
 其实自注意力机制在「Attention is all you need（注意力就是你所需要的一切）」论文诞生之前就被很多研究员以及科研学者提及过，但是他们都因为？
 
-RNN，GRU，LASTM 窗口不足。
+RNN，GRU，LSTM 窗口不足。
 
 [arXiv [2304.11062] Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf)
 
